@@ -41,7 +41,7 @@ L'interface propose :
 
 1. **Cloner le dépôt**
 ```bash
-git clone <votre-repo>
+git clone https://github.com/duvan0111/crawler-enduranker-web-2.git
 cd crawler-enduranker-frontend
 ```
 
@@ -211,7 +211,7 @@ Ce projet est développé dans un cadre académique.
 
 ## 👥 Auteurs
 
-Projet réalisé dans le cadre du Master 2 Data Science.
+Projet réalisé par Franklin CHAMDJOU,  Alphonse NOUMSI & Merveille NOUPOUE.
 
 ---
 
